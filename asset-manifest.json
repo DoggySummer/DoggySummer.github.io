@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.414dcbb3.css",
+    "main.js": "/static/js/main.e605f3f2.js",
+    "static/media/NotoSansKR-Black.otf": "/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
+    "index.html": "/index.html",
+    "main.414dcbb3.css.map": "/static/css/main.414dcbb3.css.map",
+    "main.e605f3f2.js.map": "/static/js/main.e605f3f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414dcbb3.css",
+    "static/js/main.e605f3f2.js"
+  ]
+}
