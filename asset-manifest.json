@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.853af651.css",
-    "main.js": "/static/js/main.815d8161.js",
+    "main.css": "/static/css/main.0848cf0f.css",
+    "main.js": "/static/js/main.9ceab02a.js",
     "static/media/NotoSansKR-Black.otf": "/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "index.html": "/index.html",
-    "main.853af651.css.map": "/static/css/main.853af651.css.map",
-    "main.815d8161.js.map": "/static/js/main.815d8161.js.map"
+    "main.0848cf0f.css.map": "/static/css/main.0848cf0f.css.map",
+    "main.9ceab02a.js.map": "/static/js/main.9ceab02a.js.map"
   },
   "entrypoints": [
-    "static/css/main.853af651.css",
-    "static/js/main.815d8161.js"
+    "static/css/main.0848cf0f.css",
+    "static/js/main.9ceab02a.js"
   ]
 }
